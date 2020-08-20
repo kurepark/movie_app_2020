@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kurepark/movie_app_2020/static/css/main.184a2473.chunk.css",
+    "main.js": "/kurepark/movie_app_2020/static/js/main.e9d031ae.chunk.js",
+    "main.js.map": "/kurepark/movie_app_2020/static/js/main.e9d031ae.chunk.js.map",
+    "runtime-main.js": "/kurepark/movie_app_2020/static/js/runtime-main.b4763e75.js",
+    "runtime-main.js.map": "/kurepark/movie_app_2020/static/js/runtime-main.b4763e75.js.map",
+    "static/js/2.ff56ef60.chunk.js": "/kurepark/movie_app_2020/static/js/2.ff56ef60.chunk.js",
+    "static/js/2.ff56ef60.chunk.js.map": "/kurepark/movie_app_2020/static/js/2.ff56ef60.chunk.js.map",
+    "index.html": "/kurepark/movie_app_2020/index.html",
+    "precache-manifest.230ce10650d50009d66a84fbbaac6191.js": "/kurepark/movie_app_2020/precache-manifest.230ce10650d50009d66a84fbbaac6191.js",
+    "service-worker.js": "/kurepark/movie_app_2020/service-worker.js",
+    "static/css/main.184a2473.chunk.css.map": "/kurepark/movie_app_2020/static/css/main.184a2473.chunk.css.map",
+    "static/js/2.ff56ef60.chunk.js.LICENSE.txt": "/kurepark/movie_app_2020/static/js/2.ff56ef60.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4763e75.js",
+    "static/js/2.ff56ef60.chunk.js",
+    "static/css/main.184a2473.chunk.css",
+    "static/js/main.e9d031ae.chunk.js"
+  ]
+}
