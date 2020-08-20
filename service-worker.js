@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kurepark/movie_app_2020/precache-manifest.230ce10650d50009d66a84fbbaac6191.js"
+  "/kurepark/movie_app_2020/precache-manifest.758f4d11c07b42a9476608c102fb2ad9.js"
 );
 
 self.addEventListener('message', (event) => {
